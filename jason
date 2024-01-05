@@ -1,0 +1,399 @@
+[
+  {
+    "Movie": "Devil: The British Secret Agent",
+    "Worldwide": 11,
+    "India_Net": 11.3,
+    "India_Gross": 9.5,
+    "Overseas": 1.5,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "29 Dec 2023"
+  },
+  {
+    "Movie": "Kaatera",
+    "Worldwide": 33.25,
+    "India_Net": 37.39,
+    "India_Gross": 33.25,
+    "Overseas": 0,
+    "Movie_Type": "Sandalwood",
+    "Released_Date": "29 Dec 2023"
+  },
+  {
+    "Movie": "Bubblegum",
+    "Worldwide": 33.25,
+    "India_Net": 2.01,
+    "India_Gross": 33.25,
+    "Overseas": 0,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "29 Dec 2023"
+  },
+  {
+    "Movie": "Salaar: Cease Fire - Part 1",
+    "Worldwide": 527.4,
+    "India_Net": 360.82,
+    "India_Gross": 407.4,
+    "Overseas": 120,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "22 Dec 2023"
+  },
+  {
+    "Movie": "Dunki",
+    "Worldwide": 370.25,
+    "India_Net": 196.97,
+    "India_Gross": 225.25,
+    "Overseas": 145,
+    "Movie_Type": "Bollywood",
+    "Released_Date": "21 Dec 2023"
+  },
+  {
+    "Movie": "Aquaman and the Lost Kingdom",
+    "Worldwide": 1200,
+    "India_Net": 16.33,
+    "India_Gross": 19.6,
+    "Overseas": 750,
+    "Movie_Type": "Hollywood",
+    "Released_Date": "21 Dec 2023"
+  },
+  {
+    "Movie": "Neru",
+    "Worldwide": 65.15,
+    "India_Net": 35,
+    "India_Gross": 38.55,
+    "Overseas": 26.6,
+    "Movie_Type": "Mollywood",
+    "Released_Date": "21 Dec 2023"
+  },
+  {
+    "Movie": "Fight Club",
+    "Worldwide": 33.25,
+    "India_Net": 9.69,
+    "India_Gross": 33.25,
+    "Overseas": 0,
+    "Movie_Type": "Kollywood",
+    "Released_Date": "15 Dec 2023"
+  },
+  {
+    "Movie": "Pindam",
+    "Worldwide": 33.25,
+    "India_Net": 2.43,
+    "India_Gross": 33.25,
+    "Overseas": 0,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "15 Dec 2023"
+  },
+  {
+    "Movie": "Extra Ordinary Man",
+    "Worldwide": 10.25,
+    "India_Net": 9.3,
+    "India_Gross": 9.25,
+    "Overseas": 1,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "08 Dec 2023"
+  },
+  {
+    "Movie": "Wonka",
+    "Worldwide": 33.25,
+    "India_Net": 2.37,    
+    "India_Gross": 33.25,
+    "Overseas": 0,
+    "Movie_Type": "Hollywood",
+    "Released_Date": "08 Dec 2023"
+  },
+  {
+    "Movie": "Conjuring Kannappan",
+    "Worldwide": 33.25,
+    "India_Net": 7.73,    
+    "India_Gross": 33.25,
+    "Overseas": 0,
+    "Movie_Type": "Kollywood",
+    "Released_Date": "08 Dec 2023"
+  },
+  {
+    "Movie": "Hi Nanna",
+    "Worldwide": 73,
+    "India_Net": 46.6,
+    "India_Gross": 54.5,
+    "Overseas": 18.5,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "07 Dec 2023"
+  },
+  {
+    "Movie": "Sam Bahadur",
+    "Worldwide": 124.25,
+    "India_Net": 90.15,
+    "India_Gross": 105.75,
+    "Overseas": 18.5,
+    "Movie_Type": "Bollywood",
+    "Released_Date": "01 Dec 2023"
+  },
+  {
+    "Movie": "Annapoorani - The Goddess of Food",
+    "Worldwide": 1.85,
+    "India_Net": 3.94,
+    "India_Gross": 1.85,
+    "Overseas": 0,
+    "Movie_Type": "Kollywood",
+    "Released_Date": "01 Dec 2023"
+  },
+  {
+    "Movie": "Parking (2023)",
+    "Worldwide": 33.25,
+    "India_Net": 2.59,
+    
+    "India_Gross": 33.25,
+    "Overseas": 0,
+    "Movie_Type": "Kollywood",
+    "Released_Date": "01 Dec 2023"
+  },
+  {
+    "Movie": "Antony (2023)",
+    "Worldwide": 8.3,
+    "India_Net": 6.99,
+    "India_Gross": 8.3,
+    "Overseas": 0,
+    "Movie_Type": "Mollywood",
+    "Released_Date": "01 Dec 2023"
+  },
+  {
+    "Movie": "Animal",
+    "Worldwide": 890.25,
+    "India_Net": 546.26,
+    "India_Gross": 649.25,
+    "Overseas": 241,
+    "Movie_Type": "Bollywood",
+    "Released_Date": "01 Dec 2023"
+  },
+  {
+    "Movie": "Jhimma 2",
+    "Worldwide": 12.6,
+    "India_Net": 10.62,
+    "India_Gross": 12.6,
+    "Overseas": 0,
+    "Movie_Type": "Marathi Film",
+    "Released_Date": "24 Nov 2023"
+  },
+  {
+    "Movie": "Napoleon",
+    "Worldwide": 655,
+    "India_Net": 8.93,
+    "India_Gross": 6.75,
+    "Overseas": 385,
+    "Movie_Type": "Hollywood",
+    "Released_Date": "24 Nov 2023"
+  },
+  {
+    "Movie": "Farrey",
+    "Worldwide": 3.2,
+    "India_Net": 2.68,
+    "India_Gross": 3.2,
+    "Overseas": 0,
+    "Movie_Type": "Bollywood",
+    "Released_Date": "24 Nov 2023"
+  },
+  {
+    "Movie": "Aadikeshava",
+    "Worldwide": 3.2,
+    "India_Gross": 3.2,
+    "Overseas": 0,
+    "India_Net": 5.26,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "24 Nov 2023"
+  },
+  {
+    "Movie": "Wish (3D)",
+    "Worldwide": 410,
+    "India_Net": 1.3,
+    "India_Gross": 1.55,
+    "Overseas": 145,
+    "Movie_Type": "Hollywood",
+    "Released_Date": "24 Nov 2023"
+  },
+  {
+    "Movie": "Kotabommali PS",
+    "Worldwide": 8,
+    "India_Net": 5.9,
+    "India_Gross": 7,
+    "Overseas": 1,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "24 Nov 2023"
+  },
+  {
+    "Movie": "80s Buildup",
+    "Worldwide": 3.5,
+    "India_Net": 5.72,
+    "India_Gross": 3.5,
+    "Overseas": 0,
+    "Movie_Type": "Kollywood",
+    "Released_Date": "24 Nov 2023"
+  },
+  {
+    "Movie": "Kaathal - The Core",
+    "Worldwide": 14.5,
+    "India_Net": 10.87,
+    "India_Gross": 12.85,
+    "Overseas": 1.65,
+    "Movie_Type": "Mollywood",
+    "Released_Date": "23 Nov 2023"
+  },
+  {
+    "Movie": "Sapta Sagaradaache Ello (Side B)",
+    "Worldwide": 15.6,
+    "India_Net": 11.95,
+    "India_Gross": 14.1,
+    "Overseas": 1.5,
+    "Movie_Type": "Sandalwood",
+    "Released_Date": "17 Nov 2023"
+  },
+  {
+    "Movie": "Khichdi 2",
+    "Worldwide": 5.25,
+    "India_Net": 5.9,
+    "India_Gross": 5.25,
+    "Overseas": 0,
+    "Movie_Type": "Bollywood",
+    "Released_Date": "17 Nov 2023"
+  },
+  {
+    "Movie": "Mangalavaaram",
+    "Worldwide": 21.35,
+    "India_Net": 16.25,
+    "India_Gross": 19.1,
+    "Overseas": 2.25,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "17 Nov 2023"
+  },
+  {
+    "Movie": "Falimy",
+    "Worldwide": 15.2,
+    "India_Net": 8.81,
+    "India_Gross": 10.45,
+    "Overseas": 4.75,
+    "Movie_Type": "Mollywood",
+    "Released_Date": "17 Nov 2023"
+  },
+  {
+    "Movie": "Tiger 3",
+    "Worldwide": 464,
+    "India_Net": 282.79,
+    "India_Gross": 339.5,
+    "Overseas": 124.5,
+    "Movie_Type": "Bollywood",
+    "Released_Date": "12 Nov 2023"
+  },
+  {
+    "Movie": "The Marvels",
+    "Worldwide": 1050,
+    "India_Net": 12.15,
+    "India_Gross": 14.35,
+    "Overseas": 575,
+    "Movie_Type": "Hollywood",
+    "Released_Date": "10 Nov 2023"
+  },
+  {
+    "Movie": "Jigarthanda Double X",
+    "Worldwide": 64.55,
+    "India_Net": 44.33,
+    "India_Gross": 52.25,
+    "Overseas": 12.3,
+    "Movie_Type": "Kollywood",
+    "Released_Date": "10 Nov 2023"
+  },
+  {
+    "Movie": "Japan",
+    "Worldwide": 26.55,
+    "India_Net": 18.17,
+    "India_Gross": 21.3,
+    "Overseas": 5.25,
+    "Movie_Type": "Kollywood",
+    "Released_Date": "10 Nov 2023"
+  },
+  {
+    "Movie": "Bandra",
+    "Worldwide": 33.25,
+    "India_Net": 1.35,    
+    "India_Gross": 33.25,
+    "Overseas": 0,
+    "Movie_Type": "Mollywood",
+    "Released_Date": "10 Nov 2023"
+  },
+  {
+    "Movie": "Taylor Swift: The Eras Tour",
+    "Worldwide": 2080,
+    "India_Net": 15.95,
+    "India_Gross": 18.8,
+    "Overseas": 590,
+    "Movie_Type": "Hollywood",
+    "Released_Date": "03 Nov 2023"
+  },
+  {
+    "Movie": "Keedaa Cola",
+    "Worldwide": 15.75,
+    "India_Net": 8.31,
+    "India_Gross": 9.75,
+    "Overseas": 6,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "03 Nov 2023"
+  },
+  {
+    "Movie": "Aankh Micholi",
+    "Worldwide": 33.25,
+    "India_Net": 2.4,    
+    "India_Gross": 33.25,
+    "Overseas": 0,
+    "Movie_Type": "Bollywood",
+    "Released_Date": "03 Nov 2023"
+  },
+  {
+    "Movie": "Garudan",
+    "Worldwide": 27.1,
+    "India_Net": 14.9,
+    "India_Gross": 17.6,
+    "Overseas": 9.5,
+    "Movie_Type": "Mollywood",
+    "Released_Date": "03 Nov 2023"
+  },
+  {
+    "Movie": "Maa Oori Polimera 2",
+    "Worldwide": 21.8,
+    "India_Net": 16.5,
+    "India_Gross": 19.3,
+    "Overseas": 2.5,
+    "Movie_Type": "Tollywood",
+    "Released_Date": "03 Nov 2023"
+  },
+  {
+    "Movie": "12th Fail",
+    "Worldwide": 67,
+    "India_Net": 53.88,
+    "India_Gross": 63.5,
+    "Overseas": 3.5,
+    "Movie_Type": "Bollywood",
+    "Released_Date": "27 Oct 2023"
+  },
+  {
+    "Movie": "Tagarupalya",
+    "Worldwide": 1.3,
+    "India_Net": 1.1,
+    "India_Gross": 1.3,
+    "Overseas": 0,
+    "Movie_Type": "Sandalwood",
+    "Released_Date": "27 Oct 2023"
+  },
+  {
+    "Movie": "Tejas",
+    "Worldwide": 8.05,
+    "India_Net": 6.2,
+    "India_Gross": 7.3,
+    "Overseas": 0.75,
+    "Movie_Type": "Bollywood",
+    "Released_Date": "27 Oct 2023"
+  },
+  {
+    "Movie": "Ganapath - A Hero Is Born",
+    "Worldwide": 18,
+    "India_Net": 13.02,
+    "India_Gross": 15.5,
+    "Overseas": 2.5,
+    "Movie_Type": "Bollywood",
+    "Released_Date": "20 Oct 2023"
+  }
+]
